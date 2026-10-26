@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+output/
+test_history/
+test_summary.pdf
+.env
